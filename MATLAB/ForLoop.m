@@ -1,5 +1,5 @@
 %% Variables
-N = 1:100;
+N = 1:1000;
 sum = 0;
 
 %% Code
