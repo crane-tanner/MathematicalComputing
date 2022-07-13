@@ -1,5 +1,5 @@
-%% Defining the following Matrices and Vectors 
-A = [2 -1 4; 9 6 2; 1  3 8];
+%% Part 1: Defining the following Matrices and Vectors 
+A = [2 -1 4; 9 6 2; 1 3 8];
 B = [1 1 1; 1 1 1; 1 1 1];
 x = [3;6;8];
 y = [5 10 15];
@@ -29,3 +29,6 @@ disp(calc7);
 %disp(calc8);
 disp(calc9);
 disp(calc10); 
+
+%% Part 2: Solving Linear System of Equations Ax = B 
+

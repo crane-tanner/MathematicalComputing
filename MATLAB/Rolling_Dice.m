@@ -16,3 +16,6 @@ end
 
 avg_count = sum(overall_count)/n;
 disp(avg_count);
+
+%% Plot
+histogram(overall_count,'Normalization','probability');
