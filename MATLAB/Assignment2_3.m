@@ -1,15 +1,14 @@
 %% Part 3: Solve linear system of Equations Ax=b 
-
-A = [1 1; 1 2; 1 3];
-b = [1; 5; 10];
-
+% 
+% A = [1 1; 1 2; 1 3];
+% b = [1; 5; 10];
+% 
 % x = A\b;
 % disp(x); 
-% 
-% x1 = A*x;
-% disp(x1);
 
-% Doesn't equal b when calculating Ax. Solution doesn't exist per graph.
+
+
+%Doesn't equal b when calculating Ax. Solution doesn't exist per graph.
 x = linspace(-10,10,100);
 y1 = 1 - x;
 y2 = (1 - x)/2;
