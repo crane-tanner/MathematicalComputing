@@ -22,3 +22,6 @@ def midpoint(f,a=0,b=1,n=10):
     plt.xlim(a,b)
     plt.show()
     print(total)
+    
+def f(x):
+    return x*x
