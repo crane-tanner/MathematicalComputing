@@ -6,7 +6,7 @@
         },
         {"tag": "goodbye",
          "patterns": ["cya", "See you later", "Goodbye", "I am Leaving", "Have a Good day"],
-         "responses": ["Sad to see you go :(", "Talk to you later", "Goodbye!", "Audios!"],
+         "responses": ["Sad to see you go :(", "Talk to you later", "Goodbye!", "Audios amigo!"],
          "context_set": ""
         },
         {"tag": "age",
@@ -20,7 +20,7 @@
          "context_set": ""
         },
         {"tag": "shop",
-         "patterns": ["Id like to buy something", "whats on the menu", "what do you reccommend?", "could i get something to eat"],
+         "patterns": ["Id like to buy something", "whats on the menu", "what do you recommend?", "could i get something to eat", "how much?"],
          "responses": ["We sell donuts for $2!", "Donuts are on the menu!"],
          "context_set": ""
         },
